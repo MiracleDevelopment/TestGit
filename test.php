@@ -1,4 +1,4 @@
 <?php
 	echo "Test";
-	echo "CHanon";
+	echo "Chanon";
 ?>
