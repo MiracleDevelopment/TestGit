@@ -1,7 +1,4 @@
 <?php
 	echo "Test";
-	if(xxx)=
-	{
-		
-	}
+	echo "CHanon";
 ?>
